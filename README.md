@@ -3,7 +3,6 @@
 Not working:
 - Bluetooth (Not needed)
 - Ethernet (Not needed)
-- External monitors (?)
 - I2C/SMBUS (Touchpad works via PS/2 instead)
 
 Installation:
