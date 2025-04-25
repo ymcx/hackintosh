@@ -4,6 +4,7 @@ Not working:
 - Bluetooth (Not needed)
 - Ethernet (Not needed)
 - I2C/SMBUS (Touchpad works via PS/2 instead)
+- Hibernation
 
 Installation:
 - [HfsPlus.efi](https://github.com/acidanthera/OcBinaryData/blob/master/Drivers/HfsPlus.efi) is needed for booting from HFS+ drives like the macOS installer.
