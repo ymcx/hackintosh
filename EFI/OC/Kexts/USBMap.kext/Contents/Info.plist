@@ -22,7 +22,7 @@
 	<string>1.0</string>
 	<key>IOKitPersonalities</key>
 	<dict>
-		<key>MacBookPro15,4-XHC</key>
+		<key>MacBookPro15,2-XHC</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBHostMergeProperties</string>
@@ -66,7 +66,7 @@
 						AgAAAA==
 						</data>
 						<key>Comment</key>
-						<string>lUSBC2</string>
+						<string></string>
 					</dict>
 					<key>HS03</key>
 					<dict>
@@ -77,7 +77,7 @@
 						AwAAAA==
 						</data>
 						<key>Comment</key>
-						<string>rUSB2</string>
+						<string></string>
 					</dict>
 					<key>HS04</key>
 					<dict>
@@ -88,7 +88,7 @@
 						BAAAAA==
 						</data>
 						<key>Comment</key>
-						<string>lUSB2</string>
+						<string></string>
 					</dict>
 					<key>HS05</key>
 					<dict>
@@ -99,7 +99,7 @@
 						BQAAAA==
 						</data>
 						<key>Comment</key>
-						<string>lUSBCC2</string>
+						<string></string>
 					</dict>
 					<key>HS06</key>
 					<dict>
@@ -114,7 +114,7 @@
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
-						<key>port</key>
+						<key>#port</key>
 						<data>
 						BwAAAA==
 						</data>
@@ -141,7 +141,7 @@
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
-						<key>port</key>
+						<key>#port</key>
 						<data>
 						CgAAAA==
 						</data>
@@ -191,7 +191,7 @@
 						DwAAAA==
 						</data>
 						<key>Comment</key>
-						<string>rUSB3</string>
+						<string></string>
 					</dict>
 					<key>SS04</key>
 					<dict>
@@ -202,7 +202,7 @@
 						EAAAAA==
 						</data>
 						<key>Comment</key>
-						<string>lUSB3</string>
+						<string></string>
 					</dict>
 					<key>SS05</key>
 					<dict>
@@ -225,9 +225,9 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>MacBookPro15,4</string>
+			<string>MacBookPro15,2</string>
 		</dict>
-		<key>MacBookPro15,4-XHC-1</key>
+		<key>MacBookPro15,2-XHC-1</key>
 		<dict>
 			<key>CFBundleIdentifier</key>
 			<string>com.apple.driver.AppleUSBHostMergeProperties</string>
@@ -292,7 +292,7 @@
 				</dict>
 			</dict>
 			<key>model</key>
-			<string>MacBookPro15,4</string>
+			<string>MacBookPro15,2</string>
 		</dict>
 	</dict>
 	<key>OSBundleRequired</key>
